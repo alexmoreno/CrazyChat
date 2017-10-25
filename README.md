@@ -6,4 +6,4 @@ Essa é uma tentativa de recriar ele usando Chrome Extension.
 
 ### Como usar?
 
-Carregue a extrensao no Google Chrome... (depois acabo de escrever).
+Carregue a extensão no Google Chrome... (depois acabo de escrever).
